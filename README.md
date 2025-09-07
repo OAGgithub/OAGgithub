@@ -14,7 +14,7 @@
 - <b>Data Engineering</b>
   - [ETL Scripts for Data Warehouse](https://github.com/DimensionesAlmacen)
 
-- <b>Data Science</b>
+- <b>Machine Learning</b>
   - [Income inference using machine learning and data science](https://github.com/Inferencia-Ingresos)
     
 <h2>📺 IT Projects:</h2>
