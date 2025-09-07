@@ -3,22 +3,21 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/)
-  - [Keylogger with Email Capability](https://github.com/)
+  - [Real Estate WebApp]([https://github.com/](https://github.com/devCristoff/RoyalState))
+  - [Hackathon C# form automation](https://github.com/repositoriosHackaton/Neurotronix)
+  - [Banking Management Web App](https://github.com/chamilqs/BankingApp)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
+  - [Disease Prediction Web App ](https://github.com/repositoriosHackaton/Neurotronix)
 
 <h2>🔭 Data Analitics Projects:</h2>
 
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com)
-  - [Keylogger with Email Capability](https://github.com/)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
-<h2>📺 IT Projects:</h2>
+- <b>Data Engineering</b>
+  - [ETL Scripts for Data Warehouse](https://github.com/DimensionesAlmacen)
 
+- <b>Data Science</b>
+  - [Income inference using machine learning and data science](https://github.com/Inferencia-Ingresos)
+<h2>📺 IT Projects:</h2>
+  - [Virtual Home Lab](https://github.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
