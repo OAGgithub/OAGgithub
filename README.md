@@ -1,25 +1,19 @@
 <h1>Hi, I'm Oniel! <br/><a href="https://github.com/OAGgithub">Cybersecurity Professional</a>, <a href="https://www.instagram.com/oniel.gg/">Data Analyst</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity and Forensics Projects:</h2>
 
-- <b>C# (.NET Desktop Applications)</b>
-  - [Real Estate WebApp](https://github.com/devCristoff/RoyalState)
-  - [Banking Management Web App](https://github.com/chamilqs/BankingApp)
+- <b>Forensics</b>
+  - [Windows Forensic Analyzer](https://github.com/oaggithub/Windows_Forensics_Analyzer)
 
-
-<h2>🔭 Data Analitics Projects:</h2>
-
-- <b>Data Engineering</b>
-  - [ETL Scripts for Data Warehouse](https://github.com/oaggithub/DimensionesAlmacen)
+<h2>🔭 Coding and AI Projects:</h2>
 
 - <b>Machine Learning</b>
   - [Income inference using machine learning and data science](https://github.com/oaggithub/Inferencia-Ingresos)
   - [Disease Prediction Web App ](https://github.com/oaggithub/Diagnosticcare)
-    
-<h2>📺 IT Projects:</h2>
 
-- <b>Active Directory</b>
-  - [Virtual Home Lab](https://github.com/oaggithub/)
+- <b>C# (.NET Desktop Applications)</b>
+  - [Real Estate WebApp](https://github.com/devCristoff/RoyalState)
+  - [Banking Management Web App](https://github.com/chamilqs/BankingApp)
 
 
 <h2> 🤳 Connect with me:</h2>
