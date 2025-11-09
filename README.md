@@ -1,4 +1,4 @@
-<h1>Hi, I'm Oniel! <br/><a href="https://github.com/OAGgithub">Data Analyst</a>, <a href="https://www.instagram.com/oniel.gg/">Programmer</a></h1>
+<h1>Hi, I'm Oniel! <br/><a href="https://github.com/OAGgithub">Cybersecurity Professional</a>, <a href="https://www.instagram.com/oniel.gg/">Data Analyst</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
